@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,citrix.com
   - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,dellcdn.com
+  - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,udemy.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,gemini.google.com
