@@ -1,0 +1,69 @@
+payload:
+  #torrents
+  - DOMAIN-KEYWORD,rutor
+  - DOMAIN-KEYWORD,lostfilm
+  - DOMAIN-SUFFIX,rutracker.cc
+  - DOMAIN-SUFFIX,rutracker.net
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.ru
+  - DOMAIN-SUFFIX,nnmclub.to
+  - DOMAIN-SUFFIX,nnmstatic.win
+  - DOMAIN-SUFFIX,bt.t-ru.org
+  - DOMAIN-SUFFIX,bt2.t-ru.org
+  - DOMAIN-SUFFIX,bt3.t-ru.org
+  - DOMAIN-SUFFIX,bt4.t-ru.org
+  - DOMAIN-SUFFIX,kinozal.tv
+  - DOMAIN-SUFFIX,rustorka.com
+  - DOMAIN-SUFFIX,thepiratebay.org
+  - DOMAIN-SUFFIX,pornolab.net
+  #facebook
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,fbcdn
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,threads.net
+  #outside-block
+  - DOMAIN-SUFFIX,cisco.com
+  - DOMAIN-SUFFIX,citrix.com
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,dellcdn.com
+  - DOMAIN-SUFFIX,udemy.com
+  - DOMAIN-SUFFIX,weather.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,qualcomm.com
+  #inside-block
+  - DOMAIN-SUFFIX,adguard.com
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,chess.com
+  - DOMAIN-SUFFIX,flibusta.is
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,ntc.party
+  - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,meduza.io
+  - DOMAIN-SUFFIX,rentry.co
+  - DOMAIN-SUFFIX,rentry.org
+  - DOMAIN-SUFFIX,files.catbox.moe
+  - DOMAIN-SUFFIX,soundcloud.com
+  - DOMAIN-SUFFIX,zetfix.online
+  - DOMAIN-SUFFIX,zeflix.online
+  - DOMAIN-SUFFIX,znanija.com
+  - DOMAIN-SUFFIX,zohomail.com
+  - DOMAIN-SUFFIX,zona.media
+  - DOMAIN-SUFFIX,zerolab.net
+  #adult
+  - DOMAIN-KEYWORD,intimcity
+  - DOMAIN-SUFFIX,noodlemagazine.com
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xv-ru.com
+  - DOMAIN-SUFFIX,xvideos-cdn.com
