@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,zohomail.com
   - DOMAIN-SUFFIX,zona.media
   - DOMAIN-SUFFIX,zerolab.net
+  - DOMAIN-SUFFIX,redgifs.com
   #adult
   - DOMAIN-KEYWORD,intimcity
   - DOMAIN-SUFFIX,noodlemagazine.com
@@ -68,3 +69,4 @@ payload:
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,xvideos-cdn.com
+  - DOMAIN-SUFFIX,xvv1deos.com
