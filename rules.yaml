@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,qualcomm.com
+  - DOMAIN-SUFFIX,wall.alphacoders.com
   #inside-block
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,bbc.co.uk
@@ -69,4 +70,3 @@ payload:
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,xvideos-cdn.com
-  - DOMAIN-SUFFIX,xvv1deos.com
