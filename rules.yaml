@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,qualcomm.com
   - DOMAIN-SUFFIX,wall.alphacoders.com
+  - DOMAIN-SUFFIX,4pda.to
   #inside-block
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,bbc.co.uk
