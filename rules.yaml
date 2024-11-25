@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,zona.media
   - DOMAIN-SUFFIX,zerolab.net
   - DOMAIN-SUFFIX,redgifs.com
+  - DOMAIN-SUFFIX,digitalocean.com
   #adult
   - DOMAIN-KEYWORD,intimcity
   - DOMAIN-SUFFIX,noodlemagazine.com
