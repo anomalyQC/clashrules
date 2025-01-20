@@ -1,7 +1,6 @@
 payload:
   #torrents
-  - DOMAIN-KEYWORD,rutor
-  - DOMAIN-KEYWORD,lostfilm
+  - DOMAIN-SUFFIX,rutor.info
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutracker.cc  
   - DOMAIN-SUFFIX,nnmclub.to
@@ -61,7 +60,7 @@ payload:
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,habrastorage.org
   #adult
-  - DOMAIN-KEYWORD,intimcity
+  - DOMAIN-SUFFIX,intimcity.lol
   - DOMAIN-SUFFIX,noodlemagazine.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
