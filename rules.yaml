@@ -2,10 +2,7 @@ payload:
   #torrents
   - DOMAIN-KEYWORD,rutor
   - DOMAIN-KEYWORD,lostfilm
-  - DOMAIN-SUFFIX,rutracker.cc
-  - DOMAIN-SUFFIX,rutracker.net
-  - DOMAIN-SUFFIX,rutracker.org
-  - DOMAIN-SUFFIX,rutracker.ru
+  - DOMAIN-KEYWORD,rutracker
   - DOMAIN-SUFFIX,nnmclub.to
   - DOMAIN-SUFFIX,nnmstatic.win
   - DOMAIN-SUFFIX,bt.t-ru.org
