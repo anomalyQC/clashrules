@@ -58,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,habrastorage.org
+  - DOMAIN-SUFFIX,cloudflare-ech.com
   #adult
   - DOMAIN-KEYWORD,intimcity
   - DOMAIN-SUFFIX,noodlemagazine.com
