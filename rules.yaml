@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,qualcomm.com
   - DOMAIN-SUFFIX,wall.alphacoders.com
   - DOMAIN-SUFFIX,4pda.to
+  - DOMAIN-SUFFIX,4pda.ws
   #inside-block
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,bbc.co.uk
@@ -63,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,noodlemagazine.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,xhcdn.com
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,xvideos.com
