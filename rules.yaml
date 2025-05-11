@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,4pda.to
   - DOMAIN-SUFFIX,4pda.ws
   #inside-block
+  - DOMAIN-KEYWORD,bestchange
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
