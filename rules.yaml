@@ -64,13 +64,9 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-ech.com
   #adult
   - DOMAIN-KEYWORD,intimcity
-  - DOMAIN-KEYWORD,ahcdn
-  - DOMAIN-KEYWORD,xhcdn
   - DOMAIN-SUFFIX,noodlemagazine.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
-  - DOMAIN-SUFFIX,xhcdn.com
-  - DOMAIN-SUFFIX,ic-vt-nss.xhcdn.com
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,xvideos.com
