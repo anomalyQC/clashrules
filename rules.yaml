@@ -61,7 +61,6 @@ payload:
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,habrastorage.org
-  - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,fastpic.org
   - DOMAIN-SUFFIX,i.ibb.co
   - DOMAIN-SUFFIX,imgbb.com
