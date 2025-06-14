@@ -63,6 +63,8 @@ payload:
   - DOMAIN-SUFFIX,habrastorage.org
   - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,fastpic.org
+  - DOMAIN-SUFFIX,i.ibb.co
+  - DOMAIN-SUFFIX,imgbb.com
   #adult
   - DOMAIN-KEYWORD,intimcity
   - DOMAIN-SUFFIX,noodlemagazine.com
