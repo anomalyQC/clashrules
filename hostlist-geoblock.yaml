@@ -1,0 +1,100 @@
+payload:
+# geoblock
+  - DOMAIN-SUFFIX,4pda.to
+  - DOMAIN-SUFFIX,4pda.ws
+  - DOMAIN-SUFFIX,4pna.com
+  - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,adobe.io
+  - DOMAIN-SUFFIX,adobe.net
+  - DOMAIN-SUFFIX,canva.com
+  - DOMAIN-SUFFIX,canva.dev
+  - DOMAIN-SUFFIX,citrix.com
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,dellcdn.com
+  - DOMAIN-SUFFIX,intel.com
+  - DOMAIN-SUFFIX,intel.de
+  - DOMAIN-SUFFIX,intel.nl
+
+#telegram
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telesco.pe
+
+# open ai
+  - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaivusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+
+# twitter (x)
+  - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,cms-twdigitalassets.com
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,tellapart.com
+  - DOMAIN-SUFFIX,tweetdeck.com
+  - DOMAIN-SUFFIX,twimg.co
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twimg.org
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,twitter.biz
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twitter.jp
+  - DOMAIN-SUFFIX,twittercommunity.com
+  - DOMAIN-SUFFIX,twitterflightschool.com
+  - DOMAIN-SUFFIX,twitterinc.com
+  - DOMAIN-SUFFIX,twitteroauth.com
+  - DOMAIN-SUFFIX,twitterstat.us
+  - DOMAIN-SUFFIX,twtrdns.net
+  - DOMAIN-SUFFIX,twttr.com
+  - DOMAIN-SUFFIX,twttr.net
+  - DOMAIN-SUFFIX,twvid.com
+  - DOMAIN-SUFFIX,vine.co
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,x.ai
+
+
+# claude
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,cdn.usefathom.com
+  - DOMAIN-SUFFIX,claude.ai
+
+# twitch 1440p
+  - DOMAIN-SUFFIX,gql.twitch.tv
+  - DOMAIN-SUFFIX,usher.ttvnw.net
+
+# google ai
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,aida.googleapis.com
+  - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,antigravity-pa.googleapis.com
+  - DOMAIN-SUFFIX,antigravity-unleash.goog
+  - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN-SUFFIX,antigravity.googleapis.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,clients6.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com
+  - DOMAIN-SUFFIX,gemini.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,jules.google
+  - DOMAIN-SUFFIX,jules.google.com
+  - DOMAIN-SUFFIX,labs.google
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+  - DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
+  - DOMAIN-SUFFIX,stitch.withgoogle.com
