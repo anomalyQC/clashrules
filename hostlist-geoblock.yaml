@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,intel.de
   - DOMAIN-SUFFIX,intel.nl
+  - DOMAIN-SUFFIX,api.spotify.com
 
 #telegram
   - DOMAIN-SUFFIX,telegram.org
