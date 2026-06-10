@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,intel.nl
   - DOMAIN-SUFFIX,api.spotify.com
   - DOMAIN-SUFFIX,gew4-spclient.spotify.com
+  - DOMAIN-SUFFIX,spclient.wg.spotify.com
+  - DOMAIN-SUFFIX,clienttoken.spotify.com
 
 #telegram
   - DOMAIN-SUFFIX,telegram.org
