@@ -59,7 +59,6 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,x.ai
 
-
 # claude
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,cdn.usefathom.com
