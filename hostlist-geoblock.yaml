@@ -16,10 +16,10 @@ payload:
   - DOMAIN-SUFFIX,intel.de
   - DOMAIN-SUFFIX,intel.nl
   - DOMAIN-SUFFIX,api.spotify.com
-  - DOMAIN-SUFFIX,api-partner.spotify.com
-  - DOMAIN-SUFFIX,gew1-spclient.spotify.com
+  - DOMAIN-SUFFIX,spclient.wg.spotify.com
   - DOMAIN-SUFFIX,clienttoken.spotify.com
   - DOMAIN-SUFFIX,apresolve.spotify.com
+  - DOMAIN-SUFFIX,dealer.spotify.com
 
 #telegram
   - DOMAIN-SUFFIX,telegram.org
