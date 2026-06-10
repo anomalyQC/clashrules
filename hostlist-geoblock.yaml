@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,clienttoken.spotify.com
   - DOMAIN-SUFFIX,apresolve.spotify.com
   - DOMAIN-SUFFIX,dealer.spotify.com
+  - DOMAIN-SUFFIX,gateway.discord.gg
 
 #telegram
   - DOMAIN-SUFFIX,telegram.org
