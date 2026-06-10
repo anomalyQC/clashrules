@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,apresolve.spotify.com
   - DOMAIN-SUFFIX,dealer.spotify.com
   - DOMAIN-SUFFIX,accounts.spotify.com
+  - DOMAIN-SUFFIX,gew4-spclient.spotify.com
 
 #telegram
   - DOMAIN-SUFFIX,telegram.org
