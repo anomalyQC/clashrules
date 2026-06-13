@@ -75,8 +75,8 @@ payload:
   - DOMAIN-SUFFIX,voidboost.cc
 
 # yt extensions
-  - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
-  - DOMAIN-SUFFIX,sponsor.ajay.app
+#  - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
+#  - DOMAIN-SUFFIX,sponsor.ajay.app
 
 # adult
   - DOMAIN-SUFFIX,attachments.f95zone.to
