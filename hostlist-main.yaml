@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,meduza.io
-  - DOMAIN-SUFFIX,novayagazeta.eu
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.com
@@ -19,10 +18,9 @@ payload:
   - DOMAIN-SUFFIX,rentry.org
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,soundcloud.com
-  - DOMAIN-SUFFIX,theins.ru
   - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN-SUFFIX,mobaxterm.mobatek.net
   - DOMAIN-SUFFIX,ua
-  - DOMAIN-SUFFIX,zona.media
 
 # torrents
   - DOMAIN-SUFFIX,cdnbunny.org
@@ -34,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rustorka.com
   - DOMAIN-SUFFIX,thepiratebay.org
+  - DOMAIN-SUFFIX,torrindex.net
 
 # facebook
   - DOMAIN-SUFFIX,cdninstagram.com
